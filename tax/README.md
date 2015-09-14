@@ -9,7 +9,7 @@
 ###How to run
 + - First, Open the Terminal
 + - Second, go to the human folder
-+ - Final, in the command line,input  `ruby human.rb` to show the result
++ - Final, in the command line,input  `ruby product.rb` to show the result
 
 
 
