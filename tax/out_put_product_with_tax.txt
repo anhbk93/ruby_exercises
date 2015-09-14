@@ -1,0 +1,8 @@
+Number                 Name      Price 
+    2            Hamburger      33.99
+    4              Hot dog      55.00
+    5         import Pizza       2.31
+   10                Juice       1.10
+   20          import food       9.45
+Sum of tax: $37.73
+Sum of fee: $499.53
