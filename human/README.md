@@ -1,10 +1,12 @@
-###Exercise 2. Product tax
+###Exercise 1. Human filter
 **Subject**
-> A Product object has 3 atributes: amount, name, price
-> This has 2 type of tax.
-> Type 1: Basic tax. Necessary Foods don't need to count this tax, such as: foods, books and medicines. 
-> Another goods have to count this tax by adding 10 percent of it's price.
 
+> A Human object has 3 attributes: name, age, gender.
+> Read data from text file input_human.txt and fileter by:
+> - Gender.
+> - Age.
+> - Gender + Age.
+> Then display the result to user screen.
 
 ###How to run
 
